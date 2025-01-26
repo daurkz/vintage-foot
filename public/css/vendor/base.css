@@ -1,0 +1,8 @@
+.base_width {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.base_right_left_padding {
+    padding: 0 130px;
+}
