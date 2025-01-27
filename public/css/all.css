@@ -4,5 +4,6 @@
 
 
 @import url('./components/Header.css');
-
 @import url('./components/Main.css');
+@import url('./components/Menu.css');
+@import url('./components/Footer.css');

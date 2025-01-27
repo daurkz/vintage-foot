@@ -10,7 +10,7 @@
 }
 
 .mine_image {
-    padding-top: 194px;
+    padding-top: 250px;
     width: 642px;
     height: 600px;
 }
@@ -25,3 +25,37 @@
     object-fit: contain;
 }
 
+
+.mine_descriprion > h1 {
+    margin-bottom: 50px;
+
+    font-weight: 800;
+    font-size: 32px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.mine_descriprion > p {
+    margin-bottom: 40px;
+
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.mine_descriprion > button {
+    width: 180px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: rgba(229, 38, 38, 1);
+
+    color: #fff;
+    font-weight: 400;
+    font-size: 24px;
+    cursor: pointer;
+    transition: all ease .4s;
+}
+
+
+.mine_descriprion > button:hover {
+    background-color: rgba(0, 0, 0, 1);;
+}
