@@ -1,0 +1,8 @@
+.scrolled {
+    margin-top: 0px;
+    background-color: #fff;
+}
+
+.scrolled > .header_logo{
+    margin-top: 20px;
+}
